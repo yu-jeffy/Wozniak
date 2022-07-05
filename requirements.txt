@@ -1,4 +1,4 @@
-discord
+interactions
 openai
+os
 python-dotenv
-discord-py-interactions
